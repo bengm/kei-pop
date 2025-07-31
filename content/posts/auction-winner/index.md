@@ -1,6 +1,5 @@
 +++
 date = '2025-07-31T14:20:14-04:00'
-draft = true
 title = 'Auction Winner!'
 +++
 
