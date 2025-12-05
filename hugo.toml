@@ -95,7 +95,7 @@ pagination.pagerSize = 20
     [languages.en.params.logo]
       logoText = "KEI POP"
       logoHomeLink = "/"
-      logoImage = "keipop_logo_sm.png"
+      logoImage = "kp-logo-2.png"
 
     [languages.en.menu]
       # Submenus is available since v2.1.0
