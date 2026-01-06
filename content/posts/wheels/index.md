@@ -17,6 +17,8 @@ The details:
 
 The grand total cost was just under $1000 all-in.
 
+These particular wheels were easy to fit as they were precisely the same 59.1mm center bore as stock.
+
 _Side note: [this spreadsheet](https://docs.google.com/spreadsheets/d/1UREIP9V1JErYIgA6n1QdxHw5TulZbuJuxrhmcjaIOS8/edit?fbclid=IwAR2Ngg_ELxKER8OIyslGDsOfmWgCPKPyq02vCIrfMI_ryswOLb--tQGmXRc&gid=345319588#gid=345319588) was helpful in understanding wheel/tire fit for Sambars._
 
 ![close up of tires on the truck](closeup.jpeg)
