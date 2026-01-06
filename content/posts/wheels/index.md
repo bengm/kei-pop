@@ -17,6 +17,8 @@ The details:
 
 The grand total cost was just under $1000 all-in.
 
+_Side note: [this spreadsheet](https://docs.google.com/spreadsheets/d/1UREIP9V1JErYIgA6n1QdxHw5TulZbuJuxrhmcjaIOS8/edit?fbclid=IwAR2Ngg_ELxKER8OIyslGDsOfmWgCPKPyq02vCIrfMI_ryswOLb--tQGmXRc&gid=345319588#gid=345319588) was helpful in understanding wheel/tire fit for Sambars._
+
 ![close up of tires on the truck](closeup.jpeg)
 
 Everything seems to fit just fine with room to spare. The offset and width of the wheels seemed to match the factory wheels more or less, just going from 12" up to 13". The overall tire diameter is about an inch more.
