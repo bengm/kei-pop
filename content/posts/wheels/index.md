@@ -3,8 +3,6 @@ date = '2026-01-03T00:00:00-04:00'
 title = 'Wheels & Tires Upgrade'
 +++
 
-# Wheels & Tires
-
 My new wheels & tires are installed! After lots of searching and learning about tire math, I settled on a more rugged look of all terrain tires, but was close to getting some more sporty white wheels and associated lower profile tires.
 
 ![overview of truck with new wheels & tires](overview.jpeg)
