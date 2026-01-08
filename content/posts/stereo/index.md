@@ -13,6 +13,8 @@ I opted for a fairly simple and cheap unit, the [JVC KD-X280BT](https://www.crut
 
 It was pretty simple to get the factory cover off, then find the 4 screws to unmount the bracket. Two of the screws are pretty deep and required a longer screwdriver, so a little harder to work with. The new stereo came with an optional quick-release bracket (to remove the radio without screws), but that didn't seem to fit gracefully, so I just installed it in the traditional manner.
 
+I did watch the [how-to video from Oh Kei Garage](https://www.youtube.com/watch?v=K195toB0WKA), which was helpful to understand what to expect.
+
 I know Oh Kei Garage has a wiring harness, which would have been nice, but I just matched up wires and used a heat gun and heat shrink self-solder connectors, using the [KS4 manual](https://oiwa.co/subaru-sambar-manual) to help me sort out which wires to connect to which.
 
 If I did it all over, I'd consider going with a [RetroSound option](https://www.crutchfield.com/p_068GRANM1B/RetroSound-Grand-Prix-M1B.html) to better match the original aesthetic, though it would cost a bit more.
