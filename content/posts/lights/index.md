@@ -5,6 +5,8 @@ title = 'LED Lights Swap'
 
 I felt compelled to swap out most of the exterior lighting for LEDs, and also converting the bed light to a 3rd brake light. I didn't have any bulbs out, but liked the idea of better visibility for safety reasons and less strain on the electrical system.
 
+In total, this cost me about $90 for the replacement bulbs and relay, plus another $85 for the brake light conversion kit.
+
 ## Bed/Brake Light Conversion
 
 This was probably the most important item from a safety perspective. You can [buy a simple kit](https://www.etsy.com/listing/1863118587/subaru-sambar-3rd-brake-light-and-bed) to convert the exterior bed light into a combo 3rd brake light and bed light. Install was straightforward [following this video](https://www.youtube.com/watch?v=hkCtxVjlPOg), though my kit shipped with a pretty convenient wiring kit so I didn't need to use any T-taps, etc. A word of caution, I wasn't too careful and initially snipped a wrong wire under the dash - so had to do a bit of repair. 
